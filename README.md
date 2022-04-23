@@ -65,22 +65,17 @@
 
 #### The final best model is CatBoost Regression
 
----------------------------------
 #### Best Model : -------- CatBoost Regressor -------- 
----------------------------------
-* Best: -0.098864 using {'learning_rate': 0.01}
----------------------------------
-Test set evaluation:
 
---------------
+* Best: -0.098864 using {'learning_rate': 0.01}
+
+Test set evaluation:
 * MAE: 0.08106293221319592
 * MSE: 0.009480761870486888
 * RMSE: 0.09736920391215535
 * R2 Square 0.9220099396058459
---------------
-Train set evaluation:
 
---------------
+Train set evaluation:
 * MAE: 0.05315783964480034
 * MSE: 0.004942925912769483
 * RMSE: 0.07030594507415061
